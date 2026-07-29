@@ -1,0 +1,130 @@
+[
+  {
+    "key": "abaco",
+    "name": "Abaco",
+    "flag": "bs-aba.png",
+    "settlement": "Marsh Harbour",
+    "size_label": "~776 sq mi (2,010 sq km)",
+    "size_sqmi": 776.0
+  },
+  {
+    "key": "acklins",
+    "name": "Acklins",
+    "flag": "bs-aci.png",
+    "settlement": "Spring Point",
+    "size_label": "~192 sq mi (497 sq km)",
+    "size_sqmi": 192.0
+  },
+  {
+    "key": "andros",
+    "name": "Andros",
+    "flag": "bs-and.png",
+    "settlement": "Nicholls Town",
+    "size_label": "~2,300 sq mi (5,957 sq km)",
+    "size_sqmi": 2300.0
+  },
+  {
+    "key": "berry_islands",
+    "name": "Berry Islands",
+    "flag": "bs-ber.png",
+    "settlement": "Great Harbour Cay",
+    "size_label": "~12 sq mi (30 sq km)",
+    "size_sqmi": 12.0
+  },
+  {
+    "key": "bimini",
+    "name": "Bimini",
+    "flag": "bs-bim.png",
+    "settlement": "Alice Town",
+    "size_label": "~9 sq mi (23 sq km)",
+    "size_sqmi": 9.0
+  },
+  {
+    "key": "cat_island",
+    "name": "Cat Island",
+    "flag": "bs-cat.png",
+    "settlement": "Arthur's Town",
+    "size_label": "~150 sq mi (388 sq km)",
+    "size_sqmi": 150.0
+  },
+  {
+    "key": "crooked_island",
+    "name": "Crooked Island",
+    "flag": "bs-aci.png",
+    "settlement": "Colonel Hill",
+    "size_label": "~92 sq mi (241 sq km)",
+    "size_sqmi": 92.0
+  },
+  {
+    "key": "eleuthera",
+    "name": "Eleuthera",
+    "flag": "bs-ele.png",
+    "settlement": "Governor's Harbour",
+    "size_label": "~200 sq mi (518 sq km)",
+    "size_sqmi": 200.0
+  },
+  {
+    "key": "exuma",
+    "name": "Exuma",
+    "flag": "bs-exu.png",
+    "settlement": "George Town",
+    "size_label": "~112 sq mi (290 sq km)",
+    "size_sqmi": 112.0
+  },
+  {
+    "key": "grand_bahama",
+    "name": "Grand Bahama",
+    "flag": "bs-gba.png",
+    "settlement": "Freeport*",
+    "size_label": "~530 sq mi (1,373 sq km)",
+    "size_sqmi": 530.0
+  },
+  {
+    "key": "inagua",
+    "name": "Inagua",
+    "flag": "bs-ina.png",
+    "settlement": "Matthew Town",
+    "size_label": "~596 sq mi (1,544 sq km)",
+    "size_sqmi": 596.0
+  },
+  {
+    "key": "long_island",
+    "name": "Long Island",
+    "flag": "bs-lon.png",
+    "settlement": "Clarence Town",
+    "size_label": "~230 sq mi (596 sq km)",
+    "size_sqmi": 230.0
+  },
+  {
+    "key": "mayaguana",
+    "name": "Mayaguana",
+    "flag": "bs-may.png",
+    "settlement": "Abraham's Bay",
+    "size_label": "~110 sq mi (285 sq km)",
+    "size_sqmi": 110.0
+  },
+  {
+    "key": "new_providence",
+    "name": "New Providence",
+    "flag": "bs-nas.png",
+    "settlement": "Nassau",
+    "size_label": "~80 sq mi (207 sq km)",
+    "size_sqmi": 80.0
+  },
+  {
+    "key": "ragged_island",
+    "name": "Ragged Island",
+    "flag": "bs-rag.png",
+    "settlement": "Duncan Town",
+    "size_label": "~9 to 9.5 sq mi (~23 sq km)",
+    "size_sqmi": 9.0
+  },
+  {
+    "key": "san_salvador",
+    "name": "San Salvador",
+    "flag": "bs-ssa.png",
+    "settlement": "Cockburn Town",
+    "size_label": "~63 sq mi (163 sq km)",
+    "size_sqmi": 63.0
+  }
+]
