@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Bahamas — 16 Major Islands</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito+Sans:wght@400;600;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+
+<div class="topnav">
+  <span class="brand">🐔 Our Bahamas</span>
+  <button class="backbtn hidden" id="backBtn">← Home</button>
+</div>
+
+<!-- HOME -->
+<section id="view-home" class="wrap">
+  <div class="home-header">
+    <div class="eyebrow">16 Major Islands</div>
+    <h1>Our Bahamas</h1>
+    <p>Get to know every major island — its flag, its main settlement, and how it compares in size.</p>
+  </div>
+  <div class="tiles">
+    <div class="tile disabled">
+      <div class="icon">🦉</div>
+      <div class="txt"><h2>The Salute</h2><p>Coming soon</p></div>
+    </div>
+    <div class="tile" data-goto="islandsong">
+      <div class="icon">🎵</div>
+      <div class="txt"><h2>Islands Song</h2><p>Hear all 16 islands, in order</p></div>
+    </div>
+    <div class="tile" data-goto="settlements">
+      <div class="icon">🏘️</div>
+      <div class="txt"><h2>Main Settlements Song</h2><p>Islands paired with their main settlement</p></div>
+    </div>
+    <div class="tile" data-goto="practice">
+      <div class="icon">🎯</div>
+      <div class="txt"><h2>Practice &amp; Games</h2><p>Island ↔ Settlement, Song Order, Compare: Size</p></div>
+    </div>
+    <div class="tile disabled">
+      <div class="icon">📖</div>
+      <div class="txt"><h2>Island Features</h2><p>Coming soon</p></div>
+    </div>
+    <div class="tile disabled">
+      <div class="icon">⛵</div>
+      <div class="txt"><h2>Regatta Hub</h2><p>Coming soon</p></div>
+    </div>
+  </div>
+  <footer>Our Bahamas — v1</footer>
+</section>
+
+<!-- PRACTICE -->
+<section id="view-practice" class="wrap hidden">
+  <div id="practiceRoot"></div>
+</section>
+
+<!-- ISLANDS SONG -->
+<section id="view-islandsong" class="wrap hidden">
+  <div id="islandsongRoot"></div>
+</section>
+
+<!-- MAIN SETTLEMENTS SONG -->
+<section id="view-settlements" class="wrap hidden">
+  <div id="settlementsRoot"></div>
+</section>
+
+<script src="tester.js?v=1"></script>
+<script src="songs.js?v=1"></script>
+<script src="app.js?v=2"></script>
+</body>
+</html>
